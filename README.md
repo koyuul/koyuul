@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @koyuul
-- 👀 I’m interested in Software engineering, with a focus on applications development! I started out with web development, and I'm looking to get into desktop applications next!
-- 🌱 I’m currently learning Java, as well as getting familliar with basic data structures and algorithms!
-- 💞️ I’m looking to collaborate on pretty much anything! If you need help with anything, let me know.
-- 📫 Reach me at @koyuul on instagram or twitter, or with shannonkyle.deleon@gmail.com!
+Hi! I'm Kyle.
+
+I am a web developer, specializing in the front-end, but I'm also comfortable with the full MERN stack.
+
+Feel free to reach me at @koyuul on Twitter or Instagram, or at https://koyuul.github.io/.
+
+Nice to meet you!
 
 <!---
 koyuul/koyuul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
