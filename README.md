@@ -1,4 +1,4 @@
-Hi! I'm Kyle.
+Hi! I'm Kyle!
 
 I am a web developer, specializing in the front-end, but I'm also comfortable with the full MERN stack.
 
