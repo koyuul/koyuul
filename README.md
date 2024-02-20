@@ -1,6 +1,6 @@
 Hi! I'm Kyle!
 
-I am a web developer, specializing in the front-end, but I'm also comfortable with the full MERN stack. I am learning C++ through satellite development, with SJSU's Cube³ Satellite Develompent Club, in which I serve as the President.
+I am a full stack developer, specializing in front-end. I'm comfortable with the full MERN stack, and C++. I currently mainly do satellite development, with SJSU's Cube³ Satellite Develompent Club, in which I serve as the President. I also develop satellites with TechEdSat at NASA, as an intern.
 
 Feel free to reach me at @koyuul on Instagram, or at https://koyuul.github.io/.
 
